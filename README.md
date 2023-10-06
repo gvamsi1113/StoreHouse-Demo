@@ -2,7 +2,7 @@
 A mobile-responsive website for a Hyderabad based startup, providing flexible storage solutions, featuring a closest StoreHouse location picker, and quick quote calculator.
 
 Objective:
-The objective of this project was to create a mobile-responsive website for a startup based in Hyderabad, offering versatile storage solutions, with key features including a location picker and a real-time cost calculator. The website aimed to provide an effective online platform for potential customers to learn about the services, find the nearest storage locations, and receive instant cost estimates.
+The objective of this project was to create a mobile-responsive website for a startup based in Hyderabad, offering versatile storage solutions, with key features including a location picker and a real-time cost calculator. The website aims to provide an effective online platform for potential customers to learn about the services, find the nearest storage locations, and receive instant cost estimates.
 
 Scope:
 Collaborating with the client to define the MVP feature set and UX flows for the core pages.
